@@ -20,6 +20,7 @@ This project is a **custom shell** developed in C, replicating core Bash functio
 git clone https://github.com/haroldrf/42_minishell.git
 cd 42_minishell
 make minishell && ./minishell
+```
 
 ---
 
@@ -28,4 +29,5 @@ make minishell && ./minishell
 [Harold RUIZ-FRANCK](https://github.com/haroldrf)
 
 ---
+
 
