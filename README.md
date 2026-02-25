@@ -25,9 +25,10 @@ make minishell && ./minishell
 ---
 
 ## 👥 Collaborators
-[Hélène THARRAULT](https://github.com/aphonogelia)
-[Harold RUIZ-FRANCK](https://github.com/haroldrf)
+- [Hélène THARRAULT](https://github.com/aphonogelia)
+- [Harold RUIZ-FRANCK](https://github.com/haroldrf)
 
 ---
+
 
 
